@@ -1,24 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react';
+import './App.css'
+import Products from './Fbclone/Post.jsx'
+import App1 from './Fbclone/Left.jsx'
+import Mess from './Message/Mess.jsx';
+import Right from './Fbclone/Right.jsx';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+        <div>
+      
+<App1/>  
+<Right/>
+<Products/>
+
+<Mess/> </div>
   );
 }
 

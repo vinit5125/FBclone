@@ -1,0 +1,50 @@
+.containerz{
+    margin-top: 10px;
+
+   
+}
+
+.main-contentz{
+    margin-left: 400px;
+    position: absolute;  box-shadow: 10px 10px 5px #aaaaaa;
+    margin-top:110px;
+    margin-right: 300px;
+    margin-bottom: 0px;
+    
+}.video-containerz video{
+    width: 800px;
+    height: 500px;
+}.comment-sectionz{
+    padding: 10px;
+    margin-right: 30px;
+}.lps{
+    margin-right: 30px;
+    width: 80px;
+    font-size: large;
+    padding: 40px;
+    margin-bottom: 30px;
+} .main-contentz img 
+{
+    width: 50px;
+    border-radius: 50px;
+}
+.main-contentz h{
+    position: relative;
+    margin-top: -90px;
+    margin-left: 200px;
+    font-size: x-large;
+}
+.nm1{background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.post-actionsz{
+    color:black;
+    background-color: azure;
+}
+.video-containerz h{
+    position: relative;
+      margin-left: 30px;
+      margin-top: 1px;      
+    }
+  
